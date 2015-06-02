@@ -1,0 +1,2 @@
+# notebook
+docker "ipython notebook"
