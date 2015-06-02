@@ -18,7 +18,7 @@ docker run -d -p 443:8888 \
 
 Now you can connect to...
 
-    [https://localhost]
+    [https://localhost](https://localhost)
 
 
 
