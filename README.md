@@ -5,7 +5,10 @@ Based on
 
 https://registry.hub.docker.com/u/ipython/notebook/
 
-with pdf support
+support for octave and R
+
+with pdf export
+
 
 ## Usage ##
 
